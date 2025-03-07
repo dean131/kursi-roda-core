@@ -23,4 +23,3 @@ jobs:
                       cd /home/dean-cloud/gii/kursi-roda/kursi-roda-core
                       git pull origin main
                       npm install
-                  #   docker compose up -d --build
